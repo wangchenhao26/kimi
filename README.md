@@ -1,2 +1,0 @@
-# kimi
-learning for python
